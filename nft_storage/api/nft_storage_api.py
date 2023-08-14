@@ -635,7 +635,7 @@ class NFTStorageAPI(object):
                     'application/json'
                 ],
                 'content_type': [
-                    'image/*',
+                    'image/jpeg',
                     'application/car',
                     'multipart/form-data'
                 ]
